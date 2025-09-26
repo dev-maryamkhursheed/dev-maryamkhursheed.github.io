@@ -27,8 +27,8 @@ After a 6-year break, I'm back — building apps with SwiftUI and modern iOS tec
 Here's a preview of the WeSplit interface:
 
 <p align="center">
-  <img src="/tree/main/WeSplit/Screenshots/1.png" width="300" alt="WeSplit Screenshot 1">
-  <img src="/tree/main/WeSplit/Screenshots/2.png" width="300" alt="WeSplit Screenshot 2">
+  <img src="/WeSplit/tree/main/WeSplit/Screenshots/1.png" width="300" alt="WeSplit Screenshot 1">
+  <img src="/WeSplit/tree/main/WeSplit/Screenshots/2.png" width="300" alt="WeSplit Screenshot 2">
 </p>
 
 
