@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+![My Photo](assets/maryam-photo.png)
+
 # 👋 Hi, I'm Maryam Khursheed
 
 I'm an iOS Developer with a background in project management.  
