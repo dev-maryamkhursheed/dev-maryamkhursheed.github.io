@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Maryam Khursheed](/assets/maryam-photo.png)
+![Maryam Khursheed](/assets/maryam-photo.heic)
 
 
 # 👋 Hi, I'm Maryam Khursheed
