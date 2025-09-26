@@ -29,8 +29,8 @@ Here's a preview of the WeSplit interface:
 /WeSplit/blob/main/WeSplit/Screenshots/1.png
 
 <p align="center">
-  <img src="WeSplit/blob/main/WeSplit/Screenshots/1.png" width="300" alt="WeSplit Screenshot 1">
-  <img src="WeSplit/blob/main/WeSplit/Screenshots/2.png" width="300" alt="WeSplit Screenshot 2">
+  <img src="/WeSplit/blob/main/WeSplit/Screenshots/1.png" width="300" alt="WeSplit Screenshot 1">
+  <img src="/WeSplit/blob/main/WeSplit/Screenshots/2.png" width="300" alt="WeSplit Screenshot 2">
 </p>
 
 
