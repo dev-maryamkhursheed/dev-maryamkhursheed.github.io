@@ -1,9 +1,9 @@
-
-![Maryam Khursheed](assets/maryam-photo.png)
 ---
 layout: default
 title: Home
 ---
+
+![Maryam Khursheed](assets/maryam-photo.png)
 
 
 # 👋 Hi, I'm Maryam Khursheed
