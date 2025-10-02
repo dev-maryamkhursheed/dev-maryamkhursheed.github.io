@@ -3,9 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-title: [Maryam Khursheed]
-tagline: [iOS Developer Specializing in SwiftUI & Scalable App Solutions]
-description: [A results-driven iOS developer with over a decade of experience building elegant, high-performance iOS applications.
-With a strong foundation in UIKit and advanced expertise in SwiftUI, I craft modern, maintainable, and intuitive user experiences.
-Backed by a Master’s in Project Management, I combine technical excellence with strategic thinking to lead mobile projects from concept to App Store.
-I am currently seeking opportunities where I can create impactful iOS solutions and stay at the forefront of Apple’s evolving ecosystem.]
+title: Maryam Khursheed
+description: >
+  I'm a results-driven iOS developer with over a decade of experience building elegant, high-performance iOS applications. With expertise in SwiftUI and a Master's in Project Management, I bring both technical and strategic strengths to every project.
+tagline: iOS Developer | SwiftUI Expert
