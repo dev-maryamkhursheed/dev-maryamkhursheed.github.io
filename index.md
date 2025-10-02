@@ -1,4 +1,5 @@
-![Maryam Khursheed](/assets/maryam-photo.jpg)
+
+<img src="assets/maryam-photo.jpg" alt="Maryam Khursheed">
 
 
 ## 🔧 Projects
