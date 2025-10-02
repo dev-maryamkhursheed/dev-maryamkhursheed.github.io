@@ -1,6 +1,5 @@
 
-<a href="[https://www.linkedin.com/in/maryam-khursheed-56b54a104/]" class="button" target="_blank">View on LinkedIn</a>
-
+{% include linkedin_button.html %}
 
 <img src="assets/maryam-photo.jpg" alt="Maryam Khursheed">
 
