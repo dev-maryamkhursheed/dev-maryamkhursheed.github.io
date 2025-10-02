@@ -1,3 +1,6 @@
+{% if site.linkedin %}
+  <a href="{{ site.linkedin }}" class="button" target="_blank">View on LinkedIn</a>
+{% endif %}
 
 <img src="assets/maryam-photo.jpg" alt="Maryam Khursheed">
 
