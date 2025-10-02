@@ -1,11 +1,10 @@
 
+title: [Maryam Khursheed]
+tagline: [iOS Developer Specializing in SwiftUI & Scalable App Solutions]
+description: [I'm a results-driven iOS developer with over a decade of experience building elegant, high-performance iOS applications. With a strong foundation in UIKit and advanced expertise in SwiftUI, I craft modern, maintainable, and intuitive user experiences. Backed by a Master’s in Project Management, I combine technical excellence with strategic thinking to lead mobile projects from concept to App Store. I'm currently seeking opportunities where I can create impactful iOS solutions and stay at the forefront of Apple’s evolving ecosystem.]
+
 ![Maryam Khursheed](/assets/maryam-photo.jpg)
 
-
-# 👋 Hi, I'm Maryam Khursheed
-
-I'm an iOS Developer with a background in project management.  
-After a 6-year break, I'm back — building apps with SwiftUI and modern iOS tech.
 
 ## 🔧 Projects
 
