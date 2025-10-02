@@ -1,6 +1,6 @@
-{% if site.linkedin %}
-  <a href="{{ site.linkedin }}" class="button" target="_blank">View on LinkedIn</a>
-{% endif %}
+
+<a href="[https://www.linkedin.com/in/maryam-khursheed-56b54a104/]" class="button" target="_blank">View on LinkedIn</a>
+
 
 <img src="assets/maryam-photo.jpg" alt="Maryam Khursheed">
 
