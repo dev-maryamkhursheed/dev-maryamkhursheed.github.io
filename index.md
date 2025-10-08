@@ -33,6 +33,35 @@ A flag-guessing quiz game that challenges users to identify countries.
 
 ---
 
+
+
+<div style="overflow-x: auto; white-space: nowrap; padding: 1em 0;">
+
+  <!-- App 1: WeSplit -->
+  <div style="display: inline-block; width: 300px; vertical-align: top; margin-right: 20px; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
+    <h3>WeSplit</h3>
+    <p>A simple bill-splitting app that calculates per-person amounts including tip.</p>
+    <p><strong>🔗 GitHub:</strong> <a href="https://github.com/dev-maryamkhursheed/WeSplit">WeSplit</a></p>
+    <p><strong>📸 Screenshots:</strong></p>
+    <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/WeSplit/main/Screenshots/1.png" width="120" style="margin-right: 5px;" alt="WeSplit Screenshot 1">
+    <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/WeSplit/main/Screenshots/2.png" width="120" alt="WeSplit Screenshot 2">
+  </div>
+
+  <!-- App 2: Guess the Flag -->
+  <div style="display: inline-block; width: 300px; vertical-align: top; margin-right: 20px; border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
+    <h3>Guess the Flag</h3>
+    <p>A flag-guessing quiz game that challenges users to identify countries.</p>
+    <p><strong>🔗 GitHub:</strong> <a href="https://github.com/yourusername/guess-the-flag">Guess the Flag</a></p>
+    <p><strong>📸 Screenshots:</strong></p>
+    <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/guess-the-flag-app/main/Screenshots/1.png" width="120" style="margin-right: 5px;" alt="Flag Screenshot 1">
+    <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/guess-the-flag-app/main/Screenshots/2.png" width="120" alt="Flag Screenshot 2">
+  </div>
+
+</div>
+
+
+
+
 ## 🛠️ Built With
 
 - SwiftUI
