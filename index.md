@@ -2,7 +2,9 @@
 {% include linkedin_button.html %}
 <img src="assets/maryam-photo.jpg" alt="Maryam Khursheed">
 # Small Projects Showcasing My SwiftUI Learning Journey
-> A set of beginner SwiftUI apps exploring core concepts of iOS development.
+> I started my iOS development career using UIKit with Swift 3, building apps with the classic imperative approach. As Swift and the iOS ecosystem evolved, I actively transitioned to SwiftUI by following Paul Hudson's "100 Days of SwiftUI" — a hands-on, project-based course that deepened my understanding of modern iOS development.
+
+The demo projects in this repository are a result of that journey. Each one reflects a concept or technique I explored while upgrading my skills, showcasing my growth and commitment to staying up-to-date with best practices in Swift and iOS development.
 
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 1em 0;">
