@@ -23,8 +23,10 @@
     <p><strong>🔗 GitHub:</strong> <a href="https://github.com/dev-maryamkhursheed/MarysCookBook">Mary’s Cookbook</a></p>
     <p><strong>📸 Screenshots:</strong></p>
     <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/1.png" width="120" style="margin-right: 5px; margin-bottom: 5px;" alt="Cookbook Screenshot 1">
-    <img src="Screenshots/2.png" width="120" style="margin-right: 5px; margin-bottom: 5px;" alt="Cookbook Screenshot 2">
-    <img src="Screenshots/3.png" width="120" alt="Cookbook Screenshot 3">
+    <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/2.png" width="120" style="margin-right: 5px; margin-bottom: 5px;" alt="Cookbook Screenshot 2">
+        <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/3.png" width="120" style="margin-right: 5px; margin-bottom: 5px;" alt="Cookbook Screenshot 3">
+        <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/4.png" width="120" style="margin-right: 5px; margin-bottom: 5px;" alt="Cookbook Screenshot 4">
+    <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/5.png" width="120" alt="Cookbook Screenshot 5">
   </div>
 
 </div>
