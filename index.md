@@ -1,56 +1,99 @@
-# Maryam Khursheed  
-### iOS Developer · SwiftUI · SwiftData · MVVM  
-Building polished, modern iOS apps with clean architecture and beautiful UI.
+{% include linkedin_button.html %}
+<img src="assets/maryam-photo.jpg" alt="Maryam Khursheed">
 
----
+# Featured Projects
 
-## 📱 Featured Projects
+<div style="overflow-x: auto; white-space: nowrap; padding: 1em 0;">
 
----
+  <!-- App 1: Mary's Cookbook -->
+  <div style="
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin-right: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow: hidden;
+  ">
+    <h3 style="margin-top: 0;">Mary’s Cookbook</h3>
+    <p>A modern SwiftUI recipe app with glass‑morphism UI, categories, origins, ingredients, and saved recipes using SwiftData.</p>
+    <p><strong>🔗 GitHub:</strong> <a href="https://github.com/dev-maryamkhursheed/MarysCookBook">Mary’s Cookbook</a></p>
+    <p><strong>📸 Screenshots:</strong></p>
+    <img src="Screenshots/1.png" width="120" style="margin-right: 5px; margin-bottom: 5px;" alt="Cookbook Screenshot 1">
+    <img src="Screenshots/2.png" width="120" style="margin-right: 5px; margin-bottom: 5px;" alt="Cookbook Screenshot 2">
+    <img src="Screenshots/3.png" width="120" alt="Cookbook Screenshot 3">
+  </div>
 
-## 🍽️ Mary’s Cookbook  
-A modern SwiftUI recipe app featuring a custom glass‑morphism UI, Recipe of the Day, category browsing, and saved recipes powered by SwiftData.
+</div>
 
-**Tech:** SwiftUI · SwiftData · MVVM · AsyncImage · Custom Components  
-**Features:**  
-- Recipe of the Day  
-- Browse by Category, Origin, Ingredient  
-- Save recipes locally  
-- Glass‑morphism UI components  
-- Clean, responsive layout  
 
-**GitHub:** https://github.com/dev-maryamkhursheed/MarysCookBook
 
-**Screenshots:**  
-<img src="Screenshots/1.png" width="250">  
-<img src="Screenshots/2.png" width="250">  
-<img src="Screenshots/3.png" width="250">
+# Small Projects Showcasing My SwiftUI Learning Journey
+> I started my iOS development career using UIKit with Swift 3, building apps with the classic imperative approach. As Swift and the iOS ecosystem evolved, I actively transitioned to SwiftUI by following Paul Hudson's "100 Days of SwiftUI" — a hands-on, project-based course that deepened my understanding of modern iOS development.
+>
+> The demo projects in this repository are a result of that journey. Each one reflects a concept or technique I explored while upgrading my skills, showcasing my growth and commitment to staying up-to-date with best practices in Swift and iOS development.
 
----
 
-## 🧮 WeSplit  
-A simple bill‑splitting app built while learning SwiftUI fundamentals.
+<div style="overflow-x: auto; white-space: nowrap; padding: 1em 0;">
 
-**Tech:** SwiftUI  
-**Concepts:** State, bindings, forms, pickers, computed properties  
-**GitHub:** https://github.com/dev-maryamkhursheed/WeSplit
+  <!-- App 1: WeSplit -->
+  <div style="
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin-right: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow: hidden;
+  ">
+    <h3 style="margin-top: 0;">WeSplit</h3>
+    <p>A simple bill-splitting app that calculates per-person amounts including tip.</p>
+    <p><strong>🔗 GitHub:</strong> <a href="https://github.com/dev-maryamkhursheed/WeSplit">WeSplit</a></p>
+    <p><strong>📸 Screenshots:</strong></p>
+    <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/WeSplit/main/Screenshots/1.png" width="120" style="margin-right: 5px; margin-bottom: 5px;" alt="WeSplit Screenshot 1">
+    <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/WeSplit/main/Screenshots/2.png" width="120" alt="WeSplit Screenshot 2">
+  </div>
 
----
+  <!-- App 2: Guess the Flag -->
+  <div style="
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin-right: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow: hidden;
+  ">
+    <h3 style="margin-top: 0;">Guess the Flag</h3>
+    <p>A flag-guessing quiz game that challenges users to identify countries.</p>
+    <p><strong>🔗 GitHub:</strong> <a href="https://github.com/dev-maryamkhursheed/guess-the-flag-app">Guess the Flag</a></p>
+    <p><strong>📸 Screenshots:</strong></p>
+    <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/guess-the-flag-app/main/Screenshots/1.png" width="120" style="margin-right: 5px; margin-bottom: 5px;" alt="Flag Screenshot 1">
+    <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/guess-the-flag-app/main/Screenshots/2.png" width="120" alt="Flag Screenshot 2">
+  </div>
+  
+</div>
 
-## 🚩 Guess the Flag  
-A fun flag‑guessing game demonstrating animations, alerts, and state management.
 
-**Tech:** SwiftUI  
-**Concepts:** Buttons, alerts, animations, game logic  
-**GitHub:** https://github.com/dev-maryamkhursheed/GuessTheFlag
 
----
+## 🛠️ Built With
+- SwiftUI
+- Xcode
+- State & Binding
+- Accessibility tools
 
-## 📚 About Me  
-I’m an iOS developer focused on building clean, modern SwiftUI apps with attention to detail, smooth UI, and maintainable architecture. I enjoy creating real projects that help me grow as a developer and showcase my skills.
+## ✨ About
+These projects are part of my SwiftUI learning journey and showcase core UI and logic patterns.
 
----
-
-## 📬 Contact  
-**GitHub:** https://github.com/dev-maryamkhursheed  
-**Email:** maryamkhursheed0204@gmail.com
+## 📫 Contact
+maryamkhursheed0204@gmail.com
+``
