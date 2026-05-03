@@ -1,6 +1,5 @@
 {% include linkedin_button.html %}
 <img src="assets/maryam-photo.jpg" alt="Maryam Khursheed">
-
 # Featured Projects
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 1em 0;">
@@ -19,18 +18,50 @@
     overflow: hidden;
   ">
     <h3 style="margin-top: 0;">Mary’s Cookbook</h3>
-    <p>A modern SwiftUI recipe app with glass‑morphism UI, categories, origins, ingredients, and saved recipes using SwiftData.</p>
-    <p><strong>🔗 GitHub:</strong> <a href="https://github.com/dev-maryamkhursheed/MarysCookBook">Mary’s Cookbook</a></p>
-    <p><strong>📸 Screenshots:</strong></p>
-    <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/1.png" width="120" style="margin-right: 5px; margin-bottom: 5px;" alt="Cookbook Screenshot 1">
-    <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/2.png" width="120" style="margin-right: 5px; margin-bottom: 5px;" alt="Cookbook Screenshot 2">
-        <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/3.png" width="120" style="margin-right: 5px; margin-bottom: 5px;" alt="Cookbook Screenshot 3">
-        <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/4.png" width="120" style="margin-right: 5px; margin-bottom: 5px;" alt="Cookbook Screenshot 4">
-    <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/5.png" width="120" alt="Cookbook Screenshot 5">
+
+  <p>
+  A full SwiftUI recipe application powered by a live REST API.  
+  Users can browse categories, ingredients, and origins, view detailed recipes, 
+  and save favorites using SwiftData.  
+  Includes a Recipe of the Day, a Profile screen, and a polished glass‑morphism UI.
+</p>
+
+<p><strong>🔗 GitHub:</strong> 
+  <a href="https://github.com/dev-maryamkhursheed/MarysCookBook">Mary’s Cookbook</a>
+</p>
+
+<p><strong>🧰 Tech Used:</strong></p>
+<ul>
+  <li>SwiftUI</li>
+  <li>SwiftData (local persistence)</li>
+  <li>MVVM Architecture</li>
+  <li>REST API Integration (TheMealDB)</li>
+  <li>AsyncImage + URLSession</li>
+  <li>Custom Components (glass‑morphism UI)</li>
+</ul>
+
+<p><strong>📘 What I Learned:</strong></p>
+<ul>
+  <li>Building a real-world MVVM architecture</li>
+  <li>Fetching and decoding JSON from a REST API</li>
+  <li>Creating reusable UI components</li>
+  <li>Managing local data with SwiftData</li>
+  <li>Designing a consistent, polished UI theme</li>
+</ul>
+
+<p><strong>📸 Screenshots:</strong></p>
+
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/1.png" width="120" style="margin-right: 5px;" alt="Cookbook Screenshot 1">
+  <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/2.png" width="120" style="margin-right: 5px;" alt="Cookbook Screenshot 2">
+  <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/3.png" width="120" style="margin-right: 5px;" alt="Cookbook Screenshot 3">
+  <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/4.png" width="120" style="margin-right: 5px;" alt="Cookbook Screenshot 4">
+  <img src="https://raw.githubusercontent.com/dev-maryamkhursheed/MarysCookBook/main/Screenshots/5.png" width="120" style="margin-right: 5px;" alt="Cookbook Screenshot 5">
+</div>
+
   </div>
 
 </div>
-
 
 
 # Small Projects Showcasing My SwiftUI Learning Journey
