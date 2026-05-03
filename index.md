@@ -7,7 +7,6 @@
   <!-- App 1: Mary's Cookbook -->
   <div style="
     display: inline-block;
-    width: 300px;
     vertical-align: top;
     margin-right: 20px;
     border: 1px solid #ddd;
